@@ -1,0 +1,15 @@
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\bin\Debug\net6.0\CosmosDBApp.exe
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\bin\Debug\net6.0\CosmosDBApp.deps.json
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\bin\Debug\net6.0\CosmosDBApp.runtimeconfig.json
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\bin\Debug\net6.0\CosmosDBApp.dll
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\bin\Debug\net6.0\ref\CosmosDBApp.dll
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\bin\Debug\net6.0\CosmosDBApp.pdb
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\obj\Debug\net6.0\CosmosDBApp.csproj.AssemblyReference.cache
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\obj\Debug\net6.0\CosmosDBApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\obj\Debug\net6.0\CosmosDBApp.AssemblyInfoInputs.cache
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\obj\Debug\net6.0\CosmosDBApp.AssemblyInfo.cs
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\obj\Debug\net6.0\CosmosDBApp.csproj.CoreCompileInputs.cache
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\obj\Debug\net6.0\CosmosDBApp.dll
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\obj\Debug\net6.0\ref\CosmosDBApp.dll
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\obj\Debug\net6.0\CosmosDBApp.pdb
+C:\Users\avula\git-repo\database-apps\CosmosDBApp\obj\Debug\net6.0\CosmosDBApp.genruntimeconfig.cache
